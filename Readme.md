@@ -1,0 +1,1 @@
+Testando o funcionamento do Git e do GitHub.
